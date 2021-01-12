@@ -352,11 +352,11 @@
     <category term="Json" scheme="http://myq.codes/categories/Ajax/Json/"/>
     
     
-    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="Ajax" scheme="http://myq.codes/tags/Ajax/"/>
     
     <category term="Json" scheme="http://myq.codes/tags/Json/"/>
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -533,9 +533,9 @@
     <category term="Css" scheme="http://myq.codes/categories/Html/Css/"/>
     
     
-    <category term="Html&amp;Css" scheme="http://myq.codes/tags/Html-Css/"/>
-    
     <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Html&amp;Css" scheme="http://myq.codes/tags/Html-Css/"/>
     
   </entry>
   
