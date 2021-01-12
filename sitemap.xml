@@ -170,13 +170,6 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/2021/01/09/html-css-javascript/ajax-json-bi-ji/</loc>
-    
-    <lastmod>2021-01-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://myq.codes/2021/01/09/html-css-javascript/bootstrap-bi-ji/</loc>
     
     <lastmod>2021-01-09</lastmod>
@@ -185,6 +178,13 @@
   
   <url>
     <loc>http://myq.codes/2021/01/09/html-css-javascript/jquery-ji-chu-bi-ji/</loc>
+    
+    <lastmod>2021-01-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/2021/01/09/html-css-javascript/ajax-json-bi-ji/</loc>
     
     <lastmod>2021-01-09</lastmod>
     
@@ -270,14 +270,7 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/tags/Ajax/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/tags/Json/</loc>
+    <loc>http://myq.codes/tags/Bootstrap/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -285,13 +278,6 @@
   
   <url>
     <loc>http://myq.codes/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/tags/Bootstrap/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,21 +298,21 @@
   </url>
   
   <url>
+    <loc>http://myq.codes/tags/Ajax/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/tags/Json/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://myq.codes/tags/JavaScript/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/tags/Java/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/tags/EL-JSTL/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -347,6 +333,27 @@
   </url>
   
   <url>
+    <loc>http://myq.codes/tags/Java/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/tags/JDBC%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/tags/MySQL/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://myq.codes/tags/Cookie/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +362,13 @@
   
   <url>
     <loc>http://myq.codes/tags/Session/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/tags/EL-JSTL/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -403,20 +417,6 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/tags/JDBC%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/tags/MySQL/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://myq.codes/tags/Vue/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -425,6 +425,13 @@
   
   <url>
     <loc>http://myq.codes/tags/Html/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/tags/JDBC/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -451,21 +458,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://myq.codes/tags/JDBC/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://myq.codes/categories/Ajax/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://myq.codes/categories/Bootstrap/</loc>
@@ -489,7 +482,7 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/categories/Ajax/Json/</loc>
+    <loc>http://myq.codes/categories/Ajax/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -503,21 +496,7 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/categories/Java/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://myq.codes/categories/Html/Css/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/categories/EL-JSTL/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -531,6 +510,27 @@
   </url>
   
   <url>
+    <loc>http://myq.codes/categories/Java/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/JDBC%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/Ajax/Json/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://myq.codes/categories/Markdown/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -538,7 +538,21 @@
   </url>
   
   <url>
+    <loc>http://myq.codes/categories/MySQL/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://myq.codes/categories/Cookie/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/EL-JSTL/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -559,34 +573,6 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/categories/Tomcat/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/categories/Xml/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/categories/JDBC%E8%BF%9E%E6%8E%A5%E6%B1%A0/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/categories/MySQL/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://myq.codes/categories/blog/hexo/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
@@ -595,6 +581,20 @@
   
   <url>
     <loc>http://myq.codes/categories/Cookie/Session/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/Tomcat/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/Xml/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -615,21 +615,14 @@
   </url>
   
   <url>
-    <loc>http://myq.codes/categories/Servlet/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://myq.codes/categories/Redis/</loc>
-    <lastmod>2021-01-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://myq.codes/categories/JDBC/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/Servlet/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -644,6 +637,13 @@
   
   <url>
     <loc>http://myq.codes/categories/Servlet/HTTP/Request/</loc>
+    <lastmod>2021-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://myq.codes/categories/Redis/</loc>
     <lastmod>2021-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
