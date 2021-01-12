@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>Vue</title>
+      <link href="2021/01/11/vue/vue-er-webpack/"/>
+      <url>2021/01/11/vue/vue-er-webpack/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Vue-二-Webpack"><a href="#Vue-二-Webpack" class="headerlink" title="Vue(二)-Webpack"></a>Vue(二)-Webpack</h2><h3 id="1-Webpack是什么？"><a href="#1-Webpack是什么？" class="headerlink" title="1. Webpack是什么？"></a>1. Webpack是什么？</h3><p>Webpack 是一个前端资源加载/打包工具。它将根据模块的依赖关系进行静态分析，然后将这些模块按照指定的规则生成对应的静态资源。</p><h3 id="2-安装Webpack"><a href="#2-安装Webpack" class="headerlink" title="2. 安装Webpack"></a>2. 安装Webpack</h3><p>在安装 Webpack 前，你本地环境需要支持 node.js。<br>使用 cnpm 安装 webpack：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cnpm <span class="token function">install</span> webpack -gcnpm <span class="token function">install</span> webpack-cli -g<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>测试：<br><code>webpack -v</code><br><code>webpack-cli -v</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vue</title>
+      <link href="2021/01/11/vue/vue-yi-di-yi-ge-vue-cheng-xu/"/>
+      <url>2021/01/11/vue/vue-yi-di-yi-ge-vue-cheng-xu/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Vue-一-第一个Vue程序"><a href="#Vue-一-第一个Vue程序" class="headerlink" title="Vue(一)-第一个Vue程序"></a>Vue(一)-第一个Vue程序</h2><h3 id="1-安装node-js"><a href="#1-安装node-js" class="headerlink" title="1.安装node.js"></a>1.安装node.js</h3><p>Node.js:&lt;<a href="http://nodejs.cn/download/">http://nodejs.cn/download/</a><br>安装就一直下一步就行<br>确认nodejs安装成功：<br>cmd下输入<code>node -v</code>,查看是否能够打印出版本号即可！<br>cmd下输入<code>npm -v</code>,查看是否能够打印出版本号即可！<br>安装 Node.js 淘宝镜像加速器(cnpm)：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment"># -g就是全局安装</span><span class="token function">npm</span> <span class="token function">install</span> cnpm -g <span class="token comment"># 解决npm速度过慢的问题</span><span class="token function">npm</span> <span class="token function">install</span> -g cnpm --registry<span class="token operator">=</span>https://registry.npm.taobao.org <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="2-安装vue-cli"><a href="#2-安装vue-cli" class="headerlink" title="2.安装vue-cli"></a>2.安装vue-cli</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cnpm <span class="token function">install</span> vue-cli -g<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>检查环境是否安装上： <code>vue -V</code></p><h3 id="3-创建vue项目"><a href="#3-创建vue项目" class="headerlink" title="3.创建vue项目"></a>3.创建vue项目</h3><p>3.1 初始化项目</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">vue init webpack blog-app <span class="token comment"># 创建名字为‘blog-app’的文件夹</span>? Project name blog-app? Project description A Vue.js project? Author myqlrs <span class="token operator">&lt;</span><span class="token number">531353101</span>@qq.com<span class="token operator">&gt;</span>? Vue build standalone? Install vue-router? Yes? Use ESLint to lint your code? No? Set up unit tests No? Setup e2e tests with Nightwatch? No? Should we run <span class="token variable"><span class="token variable">`</span><span class="token function">npm</span> <span class="token function">install</span><span class="token variable">`</span></span> <span class="token keyword">for</span> you after the project has been created? <span class="token punctuation">(</span>recommended<span class="token punctuation">)</span> no   vue-cli · Generated <span class="token string">"blog-app"</span><span class="token builtin class-name">.</span><span class="token comment"># Project initialization finished!</span><span class="token comment"># ========================</span>To get started:  <span class="token builtin class-name">cd</span> blog-app  <span class="token function">npm</span> <span class="token function">install</span> <span class="token punctuation">(</span>or <span class="token keyword">if</span> using yarn: <span class="token function">yarn</span><span class="token punctuation">)</span>  <span class="token function">npm</span> run devDocumentation can be found at https://vuejs-templates.github.io/webpack<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>3.2 然后进入此文件夹： <code>cd blog-app</code></p><p>3.3 然后手动下载： </p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ cnpm <span class="token function">install</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>3.4最后运行程序：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">npm</span> run dev<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="4-访问项目："><a href="#4-访问项目：" class="headerlink" title="4.访问项目："></a>4.访问项目：</h3><p><a href="http://localhost:8080/">http://localhost:8080</a><br>运行过后出现vue界面则创建成功，在命令行按ctrl+v即可停止运行</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>JavaWeb练习</title>
       <link href="2021/01/10/javaweb/zong-he-lian-xi-bi-ji/"/>
       <url>2021/01/10/javaweb/zong-he-lian-xi-bi-ji/</url>
@@ -300,11 +338,11 @@
       
         <tags>
             
+            <tag> 笔记 </tag>
+            
             <tag> Ajax </tag>
             
             <tag> Json </tag>
-            
-            <tag> 笔记 </tag>
             
         </tags>
       
@@ -466,9 +504,9 @@
       
         <tags>
             
-            <tag> 笔记 </tag>
-            
             <tag> Html&amp;Css </tag>
+            
+            <tag> 笔记 </tag>
             
         </tags>
       
@@ -709,9 +747,9 @@
       
         <tags>
             
-            <tag> blog </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> blog </tag>
             
         </tags>
       
@@ -763,47 +801,9 @@
       
         <tags>
             
-            <tag> blog </tag>
-            
             <tag> hexo </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Vue</title>
-      <link href="2021/01/01/vue/vue-er-webpack/"/>
-      <url>2021/01/01/vue/vue-er-webpack/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Vue-二-Webpack"><a href="#Vue-二-Webpack" class="headerlink" title="Vue(二)-Webpack"></a>Vue(二)-Webpack</h2><h3 id="1-Webpack是什么？"><a href="#1-Webpack是什么？" class="headerlink" title="1. Webpack是什么？"></a>1. Webpack是什么？</h3><p>Webpack 是一个前端资源加载/打包工具。它将根据模块的依赖关系进行静态分析，然后将这些模块按照指定的规则生成对应的静态资源。</p><h3 id="2-安装Webpack"><a href="#2-安装Webpack" class="headerlink" title="2. 安装Webpack"></a>2. 安装Webpack</h3><p>在安装 Webpack 前，你本地环境需要支持 node.js。<br>使用 cnpm 安装 webpack：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cnpm <span class="token function">install</span> webpack -gcnpm <span class="token function">install</span> webpack-cli -g<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>测试：<br><code>webpack -v</code><br><code>webpack-cli -v</code></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Vue </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Vue</title>
-      <link href="2021/01/01/vue/vue-yi-di-yi-ge-vue-cheng-xu/"/>
-      <url>2021/01/01/vue/vue-yi-di-yi-ge-vue-cheng-xu/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Vue-一-第一个Vue程序"><a href="#Vue-一-第一个Vue程序" class="headerlink" title="Vue(一)-第一个Vue程序"></a>Vue(一)-第一个Vue程序</h2><h3 id="1-安装node-js"><a href="#1-安装node-js" class="headerlink" title="1.安装node.js"></a>1.安装node.js</h3><p>Node.js:&lt;<a href="http://nodejs.cn/download/">http://nodejs.cn/download/</a><br>安装就一直下一步就行<br>确认nodejs安装成功：<br>cmd下输入<code>node -v</code>,查看是否能够打印出版本号即可！<br>cmd下输入<code>npm -v</code>,查看是否能够打印出版本号即可！<br>安装 Node.js 淘宝镜像加速器(cnpm)：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment"># -g就是全局安装</span><span class="token function">npm</span> <span class="token function">install</span> cnpm -g <span class="token comment"># 解决npm速度过慢的问题</span><span class="token function">npm</span> <span class="token function">install</span> -g cnpm --registry<span class="token operator">=</span>https://registry.npm.taobao.org <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="2-安装vue-cli"><a href="#2-安装vue-cli" class="headerlink" title="2.安装vue-cli"></a>2.安装vue-cli</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cnpm <span class="token function">install</span> vue-cli -g<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>检查环境是否安装上： <code>vue -V</code></p><h3 id="3-创建vue项目"><a href="#3-创建vue项目" class="headerlink" title="3.创建vue项目"></a>3.创建vue项目</h3><p>3.1 初始化项目</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">vue init webpack blog-app <span class="token comment"># 创建名字为‘blog-app’的文件夹</span>? Project name blog-app? Project description A Vue.js project? Author myqlrs <span class="token operator">&lt;</span><span class="token number">531353101</span>@qq.com<span class="token operator">&gt;</span>? Vue build standalone? Install vue-router? Yes? Use ESLint to lint your code? No? Set up unit tests No? Setup e2e tests with Nightwatch? No? Should we run <span class="token variable"><span class="token variable">`</span><span class="token function">npm</span> <span class="token function">install</span><span class="token variable">`</span></span> <span class="token keyword">for</span> you after the project has been created? <span class="token punctuation">(</span>recommended<span class="token punctuation">)</span> no   vue-cli · Generated <span class="token string">"blog-app"</span><span class="token builtin class-name">.</span><span class="token comment"># Project initialization finished!</span><span class="token comment"># ========================</span>To get started:  <span class="token builtin class-name">cd</span> blog-app  <span class="token function">npm</span> <span class="token function">install</span> <span class="token punctuation">(</span>or <span class="token keyword">if</span> using yarn: <span class="token function">yarn</span><span class="token punctuation">)</span>  <span class="token function">npm</span> run devDocumentation can be found at https://vuejs-templates.github.io/webpack<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>3.2 然后进入此文件夹： <code>cd blog-app</code></p><p>3.3 然后手动下载： </p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ cnpm <span class="token function">install</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>3.4最后运行程序：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ <span class="token function">npm</span> run dev<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h3 id="4-访问项目："><a href="#4-访问项目：" class="headerlink" title="4.访问项目："></a>4.访问项目：</h3><p><a href="http://localhost:8080/">http://localhost:8080</a><br>运行过后出现vue界面则创建成功，在命令行按ctrl+v即可停止运行</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Vue </tag>
+            <tag> blog </tag>
             
         </tags>
       
