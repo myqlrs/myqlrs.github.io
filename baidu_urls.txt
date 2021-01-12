@@ -26,5 +26,5 @@ http://myq.codes/2021/01/08/java/java-ji-chu-jia-qiang-bi-ji/
 http://myq.codes/2021/01/08/hexo/aplayer-da-pei-metingjs-yin-le-cha-jian-de-shi-yong/
 http://myq.codes/2021/01/08/hexo/my-first-blog/
 http://myq.codes/2021/01/08/hexo/hello-world/
-http://myq.codes/2021/01/01/vue/vue-er-webpack/
-http://myq.codes/2021/01/01/vue/vue-yi-di-yi-ge-vue-cheng-xu/
+http://myq.codes/2021/01/01/vueproject/vue-er-webpack/
+http://myq.codes/2021/01/01/vueproject/vue-yi-di-yi-ge-vue-cheng-xu/

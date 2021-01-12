@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://myq.codes/2021/01/01/vue/vue-er-webpack/</loc>
+    <loc>http://myq.codes/2021/01/01/vueproject/vue-yi-di-yi-ge-vue-cheng-xu/</loc>
     <lastmod>2021-01-12</lastmod>
   </url>
   <url>
-    <loc>http://myq.codes/2021/01/01/vue/vue-yi-di-yi-ge-vue-cheng-xu/</loc>
+    <loc>http://myq.codes/2021/01/01/vueproject/vue-er-webpack/</loc>
     <lastmod>2021-01-12</lastmod>
   </url>
   <url>
@@ -53,11 +53,11 @@
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
-    <loc>http://myq.codes/2021/01/10/javaweb/filter-listener-bi-ji/</loc>
+    <loc>http://myq.codes/2021/01/10/javaweb/response-bi-ji/</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
-    <loc>http://myq.codes/2021/01/10/javaweb/response-bi-ji/</loc>
+    <loc>http://myq.codes/2021/01/10/javaweb/filter-listener-bi-ji/</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
@@ -89,19 +89,19 @@
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
-    <loc>http://myq.codes/2021/01/09/html-css-javascript/javascript-gao-ji-bi-ji/</loc>
-    <lastmod>2021-01-09</lastmod>
-  </url>
-  <url>
     <loc>http://myq.codes/2021/01/09/html-css-javascript/javascript-ji-chu-bi-ji/</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
-    <loc>http://myq.codes/2021/01/09/html-css-javascript/bootstrap-bi-ji/</loc>
+    <loc>http://myq.codes/2021/01/09/html-css-javascript/javascript-gao-ji-bi-ji/</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
     <loc>http://myq.codes/2021/01/09/html-css-javascript/ajax-json-bi-ji/</loc>
+    <lastmod>2021-01-09</lastmod>
+  </url>
+  <url>
+    <loc>http://myq.codes/2021/01/09/html-css-javascript/bootstrap-bi-ji/</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
